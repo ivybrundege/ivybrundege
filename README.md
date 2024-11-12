@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, nice to meet you!
 
+I'm Ivy, a current junior earning a dual degree in Computer Science and Computational Neuroscience. In other words -- I love anything that combines technology and our brains.
+
+### Some projects I've been working on recently:
+  - Undergraduate research with the DEL Lab at CU Boulder
+  - PDF Parsing for RAG Models with Axle Informatics
+  - AI Studio Fellowship through Cornell University's Break Through Tech program
 <!--
 **ivybrundege/ivybrundege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
